@@ -20,15 +20,15 @@
 | [ASL-TransferLearning](https://github.com/fagami1423/ASL-TransferLearning) | Recognizes American Sign Language with transfer learning and converts it to speech |
 | [music_generation](https://github.com/fagami1423/music_generation) + [music_frontend](https://github.com/fagami1423/music_frontend) | AI-generated music playlists with a React player for producers |
 | [discord-clone](https://github.com/fagami1423/discord-clone) | Real-time chat app in TypeScript |
-| [job_tracker](https://github.com/fagami1423/job_tracker) | Python app for tracking job applications |
-| [raj-awx](https://github.com/fagami1423/raj-awx) | Containerized Ansible AWX setup for infrastructure automation |
-| [dsa-coding-practices](https://github.com/fagami1423/dsa-coding-practices) | Data structures & algorithms practice in Python |
+| [job_tracker](https://github.com/fagami1423/job_tracker) | Job tracker API that writes tailored resumes with a local LLM |
+| [AI-Chatbot-Python](https://github.com/fagami1423/AI-Chatbot-Python) | Intent-based NLP support chatbot (PyTorch + FastAPI), retrainable from MongoDB |
 
 ### Background
 - 🎓 Postgraduate in AI/ML (Lambton College) · BSc Computing (Software Engineering)
 - 💼 Experience across IT systems, web development, CRM operations, and NLP data annotation
 
 ### Let's connect
+🌐 Portfolio: **[fagami1423.github.io](https://fagami1423.github.io)**  
 Open to collaborating on automation, data, and AI projects — feel free to reach out!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fagami1423&show_icons=true&hide_border=true)
